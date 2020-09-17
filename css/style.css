@@ -1,0 +1,109 @@
+.obi-section{
+	margin-top: 140px;
+	margin-left: 150px;
+}
+.social{
+    padding-left: 225px;
+}
+.social ul{/* width: 9px; */padding-top: 55px;}
+.social ul li{
+    /* width: 42px; */
+    margin-right: 15px;
+}
+.social ul li a{
+    text-decoration: none;
+    color: #fff;
+    display: flex;
+    border-radius: 50%;
+    justify-content: center;
+    text-align: center;
+    font-size: 25px;
+}
+.site{
+	color: #ff8939;
+    text-decoration: none;
+}
+.site:hover{
+	color: #ff8939;
+}
+.social ul li a i{
+    
+font-size: pa;
+    
+padding: 10px;
+}
+.social ul li a img{
+    width: 45px;
+}
+.social li:first-child a {
+    background: #3B5998;
+ }
+.social li:nth-child(2) a{
+	background: #3B8ACA;
+}
+.social li:nth-child(3) a{
+	background: #0077B5;
+}
+.content{
+    /* line-height: 116px; */
+    padding-right: 290px;
+}
+.cha{
+	color: #ff8939;
+	margin-bottom: 50px;
+	display: block;
+	border-bottom: 4px solid #ff8939;
+	padding-bottom: 50px;
+}
+/*.grey{
+	
+background: gray;
+	
+width: 245px;
+	
+height: 245px;
+	
+padding-top: 0px;
+	
+margin-top: 40px;
+}*/
+.email{
+    color: #ff8939;
+}
+.content h1{
+    margin-bottom: 0;
+}
+.content h1 strong{
+    color: gray;
+}
+.content h2{}
+.content h3{
+    margin-bottom: 0;
+}
+.content h4{}
+.content li:last-child{
+	
+margin-left: 67px;
+}
+.content ul{}
+.content ul li{}
+.content ul li i{
+    margin-right: 35px;
+    color: #ff8939;
+    border-right: 3px solid #ff8939;
+    font-size: 28px;
+    margin-bottom: 5px;
+    /* height: 5px; */
+    display: inline-block;
+    padding-right: 2px;
+}
+.disclaimer{margin-left: 150px;}
+.disclaimer p{
+	margin-top: 55px;
+	padding-left: 215px;
+	padding-right: 345px;
+	color: gray;
+}
+.disclaimer p span{
+    color: #d02023;
+}
